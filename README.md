@@ -1,6 +1,6 @@
 ## Hi there 👋 Glad you came by!
 
-I'm Beabkal Eshete. A Computer Science and Engineering undergrad from Addis Ababa, Ethiopia. 
+I'm #### Beabkal Eshete ####. A Web Developer and Computer Science and Engineering undergraduate from Addis Ababa, Ethiopia. I love learning about the inner workings of computers and how algorithms are used to create efficient software. When I'm not developing and building things, you can find me on Youtube learning, writing an article, listening to history podcasts, ,  But most of my days are spent working on projects while listening to LoFi(my own and my clients), Studying or watching anime
 #### 🔭 I’m currently working on:
 
 -SPAs using Vue.js and Laravel
