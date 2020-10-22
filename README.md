@@ -15,9 +15,9 @@ I have recently started blogging about my journey. Join me at [Hashnode](https:/
 - Operating Systems
 
  #### 📫 Would love to hear from you! Find me on:
- - [Twitter]([![Twitter][1.1]][1])
+ - [Twitter]([1])[![Twitter][1.1]][1]
  
- - [LinkedIn][![LinkedIn][1.2]][2]
+ - [LinkedIn]([2])[![LinkedIn][1.2]][2]
  
  - [Hashnode](https://hashnode.com/@Beabkal)
  
