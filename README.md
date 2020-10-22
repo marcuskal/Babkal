@@ -2,7 +2,7 @@
 
 I'm Beabkal Eshete. A Web Developer and Computer Science and Engineering undergraduate from Addis Ababa, Ethiopia. I love learning about the inner workings of computers and how algorithms are used to create efficient software. When I'm not developing or studying, you can find me on Duolingo practicing my Spanish, writing an article, listening to history podcasts or reading classics.
 
-I have recently started blogging about my journey. Join me at [Hashnode](https://beabkal.hashnode.dev/) or [Dev](https://dev.to/beabkal).
+I have recently started blogging about Computer Science stuff. Join me at [Hashnode](https://beabkal.hashnode.dev/) or [Dev.to](https://dev.to/beabkal).
 
 #### 🔭 I’m currently working on:
 
@@ -23,6 +23,7 @@ I have recently started blogging about my journey. Join me at [Hashnode](https:/
  
  - [Dev.to](https://dev.to/beabkal)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 
 
@@ -33,4 +34,5 @@ I have recently started blogging about my journey. Join me at [Hashnode](https:/
 
 [1]: https://twitter.com/bab_kal
 [2]: https://www.linkedin.com/in/beabkal-eshete-420947195/
+
 
