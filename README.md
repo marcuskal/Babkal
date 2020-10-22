@@ -1,11 +1,11 @@
-### Hi there 👋 Glad you came by!
+## Hi there 👋 Glad you came by!
 
 I'm Beabkal Eshete. A Computer Science and Engineering undergrad from Addis Ababa, Ethiopia. 
-## 🔭 I’m currently working on:
+#### 🔭 I’m currently working on:
 
 -SPAs using Vue.js and Laravel
 
-##🌱 I’m currently learning:
+#### 🌱 I’m currently learning:
 
 - Advanced Programming in Java
 - Compter Networks and Data Communication
@@ -17,19 +17,6 @@ I'm Beabkal Eshete. A Computer Science and Engineering undergrad from Addis Abab
 -[![Twitter][1.2]][1]
 -[![LinkedIn][2.2]][2]
 
-
-<!--
-
-
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
