@@ -23,7 +23,8 @@ I have recently started blogging about Computer Science stuff. Join me at [Hashn
  
  - [Dev.to](https://dev.to/beabkal)
 
-[![Beabkals's github stats](https://github-readme-stats.vercel.app/api?username=babkal)](https://github.com/anuraghazra/github-readme-stats&hide=stars,commits,prs,issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babkal)](https://github.com/babkal/github-readme-stats)
+
 
 
 
