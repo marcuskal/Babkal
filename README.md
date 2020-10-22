@@ -1,11 +1,11 @@
 ### Hi there 👋 Glad you came by!
 
 I'm Beabkal Eshete. A Computer Science and Engineering undergrad from Addis Ababa, Ethiopia. 
-- 🔭 I’m currently working on SPAs using Vue and Laravel,
+## 🔭 I’m currently working on:
 
+-SPAs using Vue.js and Laravel
 
-
-🌱 I’m currently learning:
+##🌱 I’m currently learning:
 
 - Advanced Programming in Java
 - Compter Networks and Data Communication
