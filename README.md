@@ -6,7 +6,7 @@ I have recently started blogging about Computer Science stuff. Join me at [Hashn
 
 #### 🔭 I’m currently working on:
 
--SPAs using Vue.js and Laravel
+- SPAs using Vue.js and Laravel
 
 #### 🌱 I’m currently learning:
 
