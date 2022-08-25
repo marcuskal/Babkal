@@ -9,11 +9,6 @@ I have recently started blogging about Computer Science stuff. Join me at [Hashn
 - SPAs using Vue.js and Laravel
 - Mobile Apps using Flutter
 
-#### 🌱 I’m currently learning:
-
-- Advanced Programming in Java
-- Computer Networks and Data Communication
-- Operating Systems
 
  #### 📫 Would love to hear from you! Find me on:
  - [Twitter](https://twitter.com/bab_kal)[![Twitter][1.1]][1]
