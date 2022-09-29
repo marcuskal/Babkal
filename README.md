@@ -1,6 +1,8 @@
 ## Hi there 👋 Glad you came by!
 
-I'm **Beabkal Eshete**. A Mobile and Web Developer and Computer Science and Engineering undergraduate from Addis Ababa, Ethiopia. I love learning about the inner workings of computers and how algorithms are used to create efficient software. When I'm not developing or studying, you can find me on Duolingo practicing my Spanish, writing an article, listening to history podcasts or reading classics.
+I'm **Beabkal**. A full-stack engineer
+
+When I'm not developing or studying, you can find me on Duolingo practicing my Spanish, writing an article, listening to history podcasts or reading classical literature.
 
 I have recently started blogging about Computer Science stuff. Join me at [Hashnode](https://beabkal.hashnode.dev/) or [Dev.to](https://dev.to/beabkal).
 
