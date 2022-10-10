@@ -11,5 +11,5 @@ I have recently started blogging. Join me at [Hashnode](https://beabkal.hashnode
  #### 📫 Would love to hear from you! Find me on:
  - [Twitter](https://twitter.com/babichudev)
  
- - [LinkedIn](https://www.linkedin.com/in/beabkal-eshete-420947195/)
+ - [LinkedIn](https://www.linkedin.com/in/beabkal)
  
