@@ -14,7 +14,7 @@ I have recently started blogging. Join me at [Hashnode](https://beabkal.hashnode
  - [LinkedIn](https://www.linkedin.com/in/beabkal-eshete-420947195/)[![LinkedIn][1.2]][2]
  
 
-//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babkal&layout=compact)](https://github.com/babkal/github-readme-stats)
+<!-->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babkal&layout=compact)](https://github.com/babkal/github-readme-stats)<-->
 
 
 
