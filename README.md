@@ -6,7 +6,7 @@ I build web applications using JavaScript, Java and Python. I use React and Tail
 
 When I'm not developing or learning a new skill, you will find me on Duolingo practicing my Spanish, writing an article, listening to history podcasts or reading classical literature.
 
-I have recently started blogging. Join me at [Hashnode](https://beabkal.hashnode.dev/) or [Dev.to](https://dev.to/beabkal).
+I have recently started blogging. Join me at [Hashnode](https://beabkal.hashnode.dev/).
 
  #### 📫 Would love to hear from you! Find me on:
  - [Twitter](https://twitter.com/babichudev)
